@@ -258,7 +258,7 @@
 
     </body>
 </html>
- <script type="text/javascript">
+ <!-- <script type="text/javascript">
     // $('#DATE').datetimepicker({format: 'd-m-Y'});
 
 //QR-CODE
@@ -307,7 +307,7 @@
         console.error(e);
       });
     </script>
-
+ -->
     <script >
         $('#CATEGORIE_ID').change(function(){
      // alert($('#CODE').val());
